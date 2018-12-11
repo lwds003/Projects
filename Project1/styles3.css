@@ -1,0 +1,41 @@
+.container{
+    color: white;
+    background-color: black;
+    font-family: Calibri;
+
+}
+
+
+
+
+.para1,.para2, .para3, .para4, .para5-6, .para7-8, .para9-10, .para11-12{
+    /*text-align: center;*/
+    width: 80%;
+    margin-left: 30%;
+}
+
+
+
+.quote{
+    font-family: Calibri;
+    border-color: white;
+    background-color: black;
+    color: white;
+    margin-top: -10%;
+    margin-right: -5%;
+    width: 150px
+
+}
+
+.quote-2{
+    margin-left: 85%;
+    margin-top: -10%;
+
+}
+
+#header2{
+    text-align: center;
+}
+#Header{
+    text-align: center;
+}
